@@ -3,6 +3,10 @@
 
 功能：1.可以生成二维码   2.可以扫描二维码（并且可以调起相册的二维码进行扫描，打开闪光灯）
 
+效果图：
+
+![image text](https://github.com/zhq573524642/ZxingDemo/blob/master/image/%E7%94%9F%E6%88%90%E4%BA%8C%E7%BB%B4%E7%A0%81.gif)
+
 集成步骤：
 
 
