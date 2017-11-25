@@ -12,7 +12,7 @@
 
 ## 扫描二维码
 
-注：效果图扫描的是一张有二维码的截图，可以扫描任何二维码，会调起浏览器加载
+## 注：效果图扫描的是一张有二维码的截图，可以扫描任何二维码，会调起浏览器加载
 
 ![image text](https://github.com/zhq573524642/ZxingDemo/blob/master/image/%E4%BA%8C%E7%BB%B4%E7%A0%81%E6%89%AB%E6%8F%8F.gif)
 
